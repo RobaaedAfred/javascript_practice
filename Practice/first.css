@@ -1,0 +1,31 @@
+.main
+{
+    background-image: url(https://images.unsplash.com/photo-1672990687937-1e9b3446f678?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=688&q=80);
+    background-repeat: no-repeat;
+    background-size: cover; 
+    background-position: center; 
+    background-color: rgb(17, 88, 88);
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: #ffffff;
+    position:absolute ;
+    left:50%;
+    top:20%;
+}
+.rst
+{
+    position: relative;
+}
+.lgn
+{
+    position: absolute;
+    left:65%;
+    box-shadow:2px 2px rgb(125, 233, 121) ;
+}
+.lgn:hover
+{
+    box-shadow:5px 5px rgb(116, 128, 238) ;
+}
+.err1
+{
+    color:red;
+}
